@@ -3,11 +3,6 @@
 
 ![git-branch](git-branch.jpg)
 
-+ [Базовые команды](#chapter-0)
-+ [Команды для ветвления](#chapter-1)
-+ [Заметки](#chapter-2)
-
-<a id="chapter-0"></a>
 # Базовые команды
 
 *git init* – **инициализация локального репозитория**
@@ -18,6 +13,7 @@
 
 *git commit -m “message”* – **создание коммита.**
 
+<<<<<<< HEAD
 *git log* – **вывод на экран истории всех коммитов с их хеш-кодами**
 
 <a id="chapter-1"></a>
@@ -49,3 +45,6 @@
 ***
 =======
 >>>>>>> parent of 045ab35 (add commands for work with branches)
+=======
+*git log* – **вывод на экран истории всех коммитов с их хеш-кодами**
+>>>>>>> parent of 6f85a96 (add some remarks and links within the document)
