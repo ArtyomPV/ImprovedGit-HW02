@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Инструкция по работе с GIT
 
 ![git-branch](git-branch.jpg)
@@ -46,3 +47,5 @@
      *master -> seminar_1 -> seminar_2*
 
 ***
+=======
+>>>>>>> parent of 045ab35 (add commands for work with branches)
